@@ -1,0 +1,30 @@
+{
+  "requires": true,
+  "lockfileVersion": 1,
+  "dependencies": {
+    "assert": "^2.0.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "loader": "^2.1.1",
+    "reaction-role": "^3.2.3"
+  },
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Discord bot ",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RKalash62/beelifebot.git"
+  },
+  "author": "RKalash62",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RKalash62/beelifebot/issues"
+  },
+  "homepage": "https://github.com/RKalash62/beelifebot#readme"
+}
